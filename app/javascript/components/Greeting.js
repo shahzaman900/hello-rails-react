@@ -10,7 +10,12 @@ const Greeting = () => {
     dispatch(fetchGreeting());
   }, []);
 
-  return <h2>{greeting}</h2>
+  return (
+    <>
+    <h2>{greeting}</h2>
+    <h2>shhshaasda</h2>
+    </>
+    )
 }
 
 export default Greeting;
