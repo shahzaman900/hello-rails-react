@@ -112,7 +112,7 @@ To test the api, go to the following address:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mohammad Ali Reza**
+👤 **Shahzaman**
 
 - GitHub: [@githubhandle](https://github.com/shahzaman900)
 
