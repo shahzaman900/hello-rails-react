@@ -3,6 +3,7 @@ import { createAsyncThunk } from '@reduxjs/toolkit';
 const API_URL = 'http://localhost:3000/api/greetings';
 
 const FETCH = 'my_new_rails_app/greetings/FETCH';
+// const FETCH = 'my_new_rails_app/greetings/FETCH';
 
 const initialState = {
   greeting: '',
